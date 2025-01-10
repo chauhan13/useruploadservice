@@ -1,5 +1,5 @@
-git clone <repository_url>
-cd <project_directory>
+git clone https://github.com/chauhan13/useruploadservice.git
+cd useruploadservice/
 
 npm install
 npm start
